@@ -52,7 +52,9 @@ def main():
         if not file_name:
             file_name = "output"
 
-        # Use your existing file-writing code from random_text_generator
+        file_name = "output/" + file_name
+
+        # Use existing file-writing code from random_text_generator
         random_text_generator.random_file(file_name, num_words, capitalize_random_words)
         print(f"Text saved to {file_name}.txt")
 
