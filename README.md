@@ -16,7 +16,7 @@ Generates fake text with punctuation, paragraph spacing, and optional random cap
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/text-generator.git
+   git clone https://github.com/farhiya-hassan/text-generator.git
    cd text-generator
 2. Run the generator:
    ```bash
@@ -30,7 +30,7 @@ PS.  If saving to a file, it will appear in the output/ folder.
 
 ## 📄 Examples
 
-Check the `examples/` folder for pre-generated texts of:
+Example files in `examples/` demonstrate output with different lengths and styles, including paragraph spacing and punctuation.
 - 10,000 words
 - 700 words
 - 30 words
